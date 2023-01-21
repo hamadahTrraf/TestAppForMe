@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_status.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\card_status.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\password.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_qr_code_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_qr_code_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_name.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\user_name.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_credit_card_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_credit_card_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\font_robotomedium.ttf.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\font\\robotomedium.ttf"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\font_robototilani.ttf.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\font\\robototilani.ttf"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_log_out.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\log_out.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_icon.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\user_icon.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_duration.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\duration.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_qr_code.png.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable-v24\\qr_code.png"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_qr_code.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\qr_code.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bus_driver_database.jpg.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable-v24\\bus_driver_database.jpg"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_suspended_card.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\suspended_card.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_open_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_menu_open_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_off.png.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\off.png"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_eye.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\eye.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_eye_off.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\eye_off.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_star_outline_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_star_outline_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_verified_user_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_outline_verified_user_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_sentiment_satisfied_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_sentiment_satisfied_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_sentiment_dissatisfied_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_sentiment_dissatisfied_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_check_circle_.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\check_circle_.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_person_outline_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_outline_person_outline_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_star_rate_24.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\ic_baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\settings.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\font_robotoregular.ttf.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\font\\robotoregular.ttf"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_active_card.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\active_card.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\font_robotothinitalic.ttf.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\font\\robotothinitalic.ttf"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_logo.png.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\font_robotoblack.ttf.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\font\\robotoblack.ttf"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_discouners.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\discouners.xml"
+    },
+    {
+        "merged": "D:\\TMS_App_2023_01_03\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.xml.flat",
+        "source": "D:\\TMS_App_2023_01_03\\app\\src\\main\\res\\drawable\\user.xml"
+    }
+]
